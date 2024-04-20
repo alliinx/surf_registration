@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">surf_dz_activity</string>
+    <string name="task_affinity">.close</string>
+</resources>
